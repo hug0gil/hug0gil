@@ -16,6 +16,7 @@ Soy un desarrollador al que le encanta experimentar con la tecnología y aprende
   <img src="https://skillicons.dev/icons?i=angular,nodejs,express,laravel,spring" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,postman,unity,vscode,vercel,docker,git,kali" />
 </div>
+<br>
 
 <h2 align="center">ℹ️ Información:</h2>
 
