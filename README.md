@@ -23,7 +23,7 @@ Soy un desarrollador al que le encanta experimentar con la tecnología y aprende
 - 💻 Realizo mis prácticas de fin de grado en [Astec Informática](https://www.astec-informatica.com).
 - :student: Estoy actualmente cursando el 2º curso de `Desarrollo de Aplicaciones Multiplataforma (DAM)`.
 - :nerd_face: `Siempre` aprendiendo cosas nuevas.
-- :boom: Puedes visitar mi web [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: Puedes visitar mi web [MY WEBSITE].
 <br>
 
 
