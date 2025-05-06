@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , soy Hugo Gil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p>
-Soy un desarrollador al que le encanta experimentar, asumir retos y aprender algo nuevo cada día. Disfruto resolviendo problemas y metiéndome de lleno en cada proyecto. Desde pequeño siempre he sido una persona curiosa, con ganas de entender cómo funcionan las cosas por dentro. Esa curiosidad fue la que me llevó a la programación, donde no solo descubro cómo funcionan las cosas, sino que también puedo trabjar con ellas, mejorarlas y crear algo totalmente nuevo desde cero.
+Soy un desarrollador al que le encanta experimentar, asumir retos y aprender algo nuevo cada día. Disfruto resolviendo problemas y metiéndome de lleno en cada proyecto. Desde pequeño siempre he sido una persona curiosa, con ganas de entender cómo funcionan las cosas por dentro. Esa curiosidad fue la que me llevó a la programación, donde no solo descubro cómo funcionan las cosas, sino que también puedo trabajar con ellas, mejorarlas y crear algo totalmente nuevo desde cero.
 </p>
 <br>
 <div align="center">
