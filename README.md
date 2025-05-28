@@ -19,16 +19,15 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <br>
 
 <h2 align="center">ℹ️ Información:</h2>
+<br>
 
 - 💻 Realizo mis prácticas de fin de grado en [Astec Informática](https://www.astec-informatica.com).
 - :student: Estoy actualmente cursando el 2º curso de `Desarrollo de Aplicaciones Multiplataforma (DAM)`.
 - :nerd_face: `Siempre` aprendiendo cosas nuevas.
 <!--- :boom: Puedes visitar mi web [MY WEBSITE].-->
 <br>
-
-
-
 <h2 align="center">Mis stats de GitHub </h2>
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hug0gil&show_icons=true&theme=dark&locale=en&layout=compact" alt="hug0gil" /></p>
 
 <!--
