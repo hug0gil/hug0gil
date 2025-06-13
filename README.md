@@ -21,7 +21,7 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <h2 align="center">ℹ️ Información:</h2>
 <br>
 
-- 💻 Realizo mis prácticas de fin de grado en [Astec Informática](https://www.astec-informatica.com).
+- 💻 Realicé mis prácticas de fin de grado (DAM) en [Astec Informática](https://www.astec-informatica.com).
 - :student: Estoy actualmente cursando el 2º curso de `Desarrollo de Aplicaciones Multiplataforma (DAM)`.
 - :nerd_face: `Siempre` aprendiendo cosas nuevas.
 <!--- :boom: Puedes visitar mi web [MY WEBSITE].-->
