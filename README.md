@@ -13,7 +13,7 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java,cs,py" /> <br>
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,spring" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,spring,react" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,apple,postman,unity,vscode,vercel,docker,git,linux" />
 </div>
 <br>
