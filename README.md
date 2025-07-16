@@ -28,7 +28,6 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <br>
 <h2 align="center">Mis stats de GitHub </h2>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hug0gil&show_icons=true&theme=dark&locale=en&layout=compact" alt="hug0gil" /></p>
 
 <!--
 **hug0gil/hug0gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
