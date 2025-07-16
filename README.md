@@ -12,8 +12,8 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,java,cs,py" /> <br>
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,spring,react" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java,cs" /> <br>
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,spring,react,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,apple,postman,unity,docker,git,linux" />
 </div>
 <br>
