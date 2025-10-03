@@ -22,8 +22,8 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <br>
 
 - 💻 Realicé mis prácticas de fin de grado (DAM) en [Astec Informática](https://www.astec-informatica.com)
-- :student: Soy Técnico superior en `Desarrollo de Aplicaciones Multiplataforma` (DAM)
-- :nerd_face: `Siempre` estoy en contínuo aprendizaje
+- :student: Soy Técnico superior en `Desarrollo de Aplicaciones Multiplataforma` (DAM) y actualmente estoy cursando `Desarrollo de Aplicaciones Web` (DAW)
+- :nerd_face: `Siempre` en contínuo aprendizaje
 <!--- :boom: Puedes visitar mi web [MY WEBSITE].-->
 <br>
 <h2 align="center">Mis stats de GitHub </h2>
