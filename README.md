@@ -21,8 +21,8 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <h2 align="center">ℹ️ Información:</h2>
 <br>
 
-- 💻 Realicé mis prácticas de fin de grado (DAM) en [Astec Informática](https://www.astec-informatica.com)
-- :student: Soy Técnico superior en `Desarrollo de Aplicaciones Multiplataforma` (DAM) y actualmente estoy cursando `Desarrollo de Aplicaciones Web` (DAW)
+- 💻 Realicé mis prácticas de fin de grado (DAM) en [Astec Informática](https://www.astec-informatica.com) realizando un ERP con Delphi y FireBird
+- :student: Soy Técnico superior en `Desarrollo de Aplicaciones Multiplataforma` (DAM) y actualmente estoy cursando 2º de `Desarrollo de Aplicaciones Web` (DAW)
 - :nerd_face: `Siempre` en contínuo aprendizaje
 <!--- :boom: Puedes visitar mi web [MY WEBSITE].-->
 <br>
