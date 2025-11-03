@@ -31,8 +31,6 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hug0gil&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hug0gil" /></p>
 
-<meta name="google-site-verification" content="yYo1ovE62u-SPSlXDPiebdTMsw-jOy-jgDtor_5UJZM" />
-
 <!--
 **hug0gil/hug0gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
