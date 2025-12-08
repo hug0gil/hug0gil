@@ -9,7 +9,7 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 </div>
 <br>
 
-<h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
+<h2 align="center">⚒️ Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java,cs" /> <br>
