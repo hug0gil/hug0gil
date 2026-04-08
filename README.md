@@ -12,7 +12,7 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <h2 align="center">Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java,cs" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java" /> <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,angular,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,apple,postman,docker,git,linux" />
 </div>
