@@ -12,8 +12,8 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <h2 align="center">Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java" /> <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,angular,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php" /> <br>
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,apple,postman,docker,git,linux" />
 </div>
 <br>
@@ -24,12 +24,6 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 - 💻 Realicé mis prácticas de fin de grado (DAM) en [Astec Informática](https://www.astec-informatica.com) realizando un ERP con Delphi y FireBird
 - :student: Soy Técnico superior en `Desarrollo de Aplicaciones Multiplataforma` (DAM) y actualmente estoy cursando 2º de `Desarrollo de Aplicaciones Web` (DAW)
 - :nerd_face: `Siempre` en continuo aprendizaje
-<!--- :boom: Puedes visitar mi web [MY WEBSITE].-->
-<br>
-<h2 align="center">Mis stats de GitHub </h2>
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hug0gil&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hug0gil" /></p>
 
 <!--
 **hug0gil/hug0gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
