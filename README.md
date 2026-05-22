@@ -12,9 +12,8 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 <h2 align="center">Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php" /> <br>
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,laravel" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,apple,postman,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,nodejs,nest" /> <br>
+    <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,linux,git,docker" /><br>
 </div>
 <br>
 
