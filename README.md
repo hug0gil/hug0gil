@@ -17,7 +17,6 @@ Soy un desarrollador al que le encanta experimentar, asumir retos y aprender alg
 </div>
 <br>
 
-<h2 align="center">Info ℹ️</h2>
 <br>
 
 - :student: Soy Técnico superior en `Desarrollo de Aplicaciones Multiplataforma` (DAM) y `Desarrollo de Aplicaciones Web` (DAW)
